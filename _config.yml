@@ -1,2 +1,3 @@
 name: An Archive for Shplentzer
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
